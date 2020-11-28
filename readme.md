@@ -1,5 +1,5 @@
 # Hi, I'm Renna!
-I'm a _cybersecurity_ student and _ctf_ enthusiast.
+I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 
 ![Image](https://i.ibb.co/yQpkmnb/reindeer-4213845-640.jpg)
 -----------------------------------------------------------------------
@@ -16,7 +16,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 
 ------------------------------------------------------------------------
 
-## My Skills 
+## My Skills✌
 - Web Application Security Testing (Still Learning).
 - Reverse Engineering and Malware Analysis (Still Learning, too).
 - C++ development (Ok, you know, rofl).
@@ -24,7 +24,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 
 ------------------------------------------------------------------------
 
-## More About Me
+## More About Me🦌
 - `Name`: Renna (call me renna <3).
 - `Location`: Italy.
 - `Age`: How many years does a reindeer live? Idk.
