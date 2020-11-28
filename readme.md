@@ -19,7 +19,6 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 - Reverse Engineering and Malware Analysis (Still Learning, too).
 - C++ development (Ok, you know, rofl).
 - Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty/researchers/renna) to see my reports).
-
 ------------------------------------------------------------------------
 ## More About Me
 - `Name`: Renna (call me renna <3).
