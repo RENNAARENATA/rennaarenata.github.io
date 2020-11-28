@@ -1,9 +1,14 @@
 # Hi, I'm Renna!
-
-You can use the [editor on GitHub](https://github.com/RENNAARENATA/rennaarenata.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+I'm a _cybersecurity_ student and _ctf_ enthusiast.
+![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdigilander.libero.it%2Fpugenzonline%2Fanimali2%2F25renna.jpg&f=1&nofb=1)
+## My accounts on the internet✨
+- [Github](https://github.com/RENNAARENATA)
+- [Tryhackme](https://tryhackme.com/p/Rennaarenata)
+- [Telegram](https://t.me/rennaarenata)
+- [OpenBugBounty](https://openbugbounty.org/researchers/renna)
+- [MailMe](mailto:rennaarenata.32@gmail.com)
+- [HackTheBox](https://app.hackthebox.eu/profile/257735)
+------------------------------------------------------------------------
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
