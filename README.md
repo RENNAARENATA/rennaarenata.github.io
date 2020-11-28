@@ -1,6 +1,6 @@
 # Hi, I'm Renna!
 I'm a _cybersecurity_ student and _ctf_ enthusiast.
-![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdigilander.libero.it%2Fpugenzonline%2Fanimali2%2F25renna.jpg&f=1&nofb=1)
+![Image](https://github.com/RENNAARENATA/rennaarenata.github.io/blob/main/Optimized-download%20(1).jpg)
 -----------------------------------------------------------------------
 ## My accounts on the internet✨
 1. [Github](https://github.com/RENNAARENATA)
