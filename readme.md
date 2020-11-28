@@ -22,3 +22,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 
 u,u
 ------------------------------------------------------------------------
+## More About Me
+- Name: Renna (call me renna <3).
+- Location: Italy.
+- Age: How many years does a reindeer live? Idk.
