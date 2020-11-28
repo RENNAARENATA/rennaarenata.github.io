@@ -15,10 +15,10 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 5. [MailMe](mailto:rennaarenata.32@gmail.com)
 ------------------------------------------------------------------------
 ### My Skills 
-Web Application Security Testing (Still Learning)
-Reverse Engineering and Malware Analysis (Still Learning, too)
-C++ development (Ok, you know, rofl)
-Bug Hunting random sites forgotten by God.
+- Web Application Security Testing (Still Learning)
+- Reverse Engineering and Malware Analysis (Still Learning, too)
+- C++ development (Ok, you know, rofl)
+- Bug Hunting random sites forgotten by God.
 
 u,u
 ------------------------------------------------------------------------
