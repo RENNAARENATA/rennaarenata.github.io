@@ -5,11 +5,14 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 -----------------------------------------------------------------------
 ## My accounts on the internet✨
 1. [Github](https://github.com/RENNAARENATA)
+
 2. [Tryhackme](https://tryhackme.com/p/Rennaarenata)
+
 3. [Telegram](https://t.me/rennaarenata)
+
 4. [OpenBugBounty](https://openbugbounty.org/researchers/renna)
+
 5. [MailMe](mailto:rennaarenata.32@gmail.com)
-6.
 ------------------------------------------------------------------------
 ### Markdown
 
