@@ -1,13 +1,14 @@
 # Hi, I'm Renna!
 I'm a _cybersecurity_ student and _ctf_ enthusiast.
 ![Image](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fdigilander.libero.it%2Fpugenzonline%2Fanimali2%2F25renna.jpg&f=1&nofb=1)
+-----------------------------------------------------------------------
 ## My accounts on the internet✨
-- [Github](https://github.com/RENNAARENATA)
-- [Tryhackme](https://tryhackme.com/p/Rennaarenata)
-- [Telegram](https://t.me/rennaarenata)
-- [OpenBugBounty](https://openbugbounty.org/researchers/renna)
-- [MailMe](mailto:rennaarenata.32@gmail.com)
-- [HackTheBox](https://app.hackthebox.eu/profile/257735)
+1. [Github](https://github.com/RENNAARENATA)
+2. [Tryhackme](https://tryhackme.com/p/Rennaarenata)
+3. [Telegram](https://t.me/rennaarenata)
+4. [OpenBugBounty](https://openbugbounty.org/researchers/renna)
+5. [MailMe](mailto:rennaarenata.32@gmail.com)
+6. HackTheBox](https://app.hackthebox.eu/profile/257735)
 ------------------------------------------------------------------------
 ### Markdown
 
