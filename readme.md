@@ -20,7 +20,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 - Web Application Security Testing (Still Learning).
 - Reverse Engineering and Malware Analysis (Still Learning, too).
 - C++ development (Ok, you know, rofl).
-- Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty/researchers/renna) to see my reports).
+- Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty.org/researchers/renna) to see my reports).
 
 ------------------------------------------------------------------------
 
