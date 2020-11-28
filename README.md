@@ -4,7 +4,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 ![Image](https://ibb.co/74CYHjz)
 -----------------------------------------------------------------------
 ## My accounts on the internet✨
-1. [Github](https://github.com/RENNAARENATA)                  . 6. [HackTheBox](https://app.hackthebox.eu/profile/257735)
+1. [Github](https://github.com/RENNAARENATA)
 2. [Tryhackme](https://tryhackme.com/p/Rennaarenata)
 3. [Telegram](https://t.me/rennaarenata)
 4. [OpenBugBounty](https://openbugbounty.org/researchers/renna)
