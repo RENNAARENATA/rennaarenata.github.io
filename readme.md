@@ -20,9 +20,11 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 - C++ development (Ok, you know, rofl).
 - Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty/researchers/renna) to see my reports).
 
-u,u
 ------------------------------------------------------------------------
 ## More About Me
 - Name: Renna (call me renna <3).
 - Location: Italy.
 - Age: How many years does a reindeer live? Idk.
+
+
+## u,u
