@@ -1,7 +1,7 @@
 # Hi, I'm Renna!
 I'm a _cybersecurity_ student and _ctf_ enthusiast.
 
-![Image](https://i.ibb.co/BN3zmcP/download-1.jpg)
+![Image](https://i.ibb.co/8rY8K1S/Optimized-download-1.jpg)
 -----------------------------------------------------------------------
 ## My accounts on the internet✨
 1. [Github](https://github.com/RENNAARENATA)
