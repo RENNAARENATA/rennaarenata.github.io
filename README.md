@@ -8,7 +8,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 
 2. [Tryhackme](https://tryhackme.com/p/Rennaarenata)
 
-3. [Telegram](https://t.me/rennaarenata)
+3. [Telegram](https://t.me/rennaarenata) --------------------> Write me if u want.
 
 4. [OpenBugBounty](https://openbugbounty.org/researchers/renna)
 
@@ -18,7 +18,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.
 - Web Application Security Testing (Still Learning).
 - Reverse Engineering and Malware Analysis (Still Learning, too).
 - C++ development (Ok, you know, rofl).
-- Bug Hunting random sites forgotten by God. Click [here](https://openbugbounty/researchers/renna) to see my reports.
+- Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty/researchers/renna) to see my reports).
 
 u,u
 ------------------------------------------------------------------------
