@@ -29,5 +29,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 - `Location`: Italy.
 - `Age`: How many years does a reindeer live? Idk.
 
+## Interesting Stuffs
+`[Awesome List](https://github.com/RENNAARENATA/awesome)`
 
 ## u,u
