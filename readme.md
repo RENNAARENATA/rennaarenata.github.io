@@ -32,6 +32,9 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 ------------------------------------------------------------------------
 
 ## Interesting Stuffs🌊
-- [Awesome List](https://github.com/RENNAARENATA/awesome)
+1. [Awesome List](https://github.com/RENNAARENATA/awesome)
+2. [FAQ Hacker Edition](https://github.com/davtur19/documenti/blob/master/FAQ.md)
+3. [GTFOBins](https://gtfobins.github.io/)
+4. [CyberChef](https://gchq.github.io/CyberChef/)
 
 ## u,u
