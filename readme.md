@@ -31,7 +31,7 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 
 ------------------------------------------------------------------------
 
-## Interesting Stuffs
+## Interesting Stuffs🌊
 - [Awesome List](https://github.com/RENNAARENATA/awesome)
 
 ## u,u
