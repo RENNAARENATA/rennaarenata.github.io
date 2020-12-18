@@ -39,5 +39,5 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 
 ------------------------------------------------------------------------
 
-## [In progress...](https://rennaarenata.github.io/renna.txt)
+## [In progress...](renna.txt)
 ## u,u
