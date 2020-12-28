@@ -39,5 +39,4 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 
 ------------------------------------------------------------------------
 
-[`[discussion]`](https://tryhackme.com/badge/61727)
 ## u,u
