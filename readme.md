@@ -39,6 +39,5 @@ I'm a _cybersecurity_ student and _ctf_ enthusiast.✔
 
 ------------------------------------------------------------------------
 
-## [In progress...](renna.md)
+[`[discussion]`](https://tryhackme.com/badge/61727)
 ## u,u
-[TryHackMe Badge](https://tryhackme.com/badge/61727)
