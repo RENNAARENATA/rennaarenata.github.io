@@ -1,5 +1,6 @@
 # Hi, I'm Renna!
-I'm a _cybersecurity_ and _ctf_ enthusiast.✔
+I'm a _cybersecurity_ enthusiast.✔
+Sometimes I play _ctfs_. 
 
 ![Image](https://i.ibb.co/yQpkmnb/reindeer-4213845-640.jpg)
 -----------------------------------------------------------------------
