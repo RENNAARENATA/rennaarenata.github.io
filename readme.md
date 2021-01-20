@@ -21,7 +21,7 @@ Sometimes I play _ctfs_. **🏴‍☠️**
 ## My Skills✌
 - Web Application Security Testing (Still Learning).
 - Reverse Engineering and Malware Analysis (Still Learning, too).
-- C++ development (Ok, you know, rofl).
+- C++ & Ruby development (Ok, you know, rofl).
 - Bug Hunting random sites forgotten by God. (Click [here](https://openbugbounty.org/researchers/renna) to see my reports).
 
 ------------------------------------------------------------------------
