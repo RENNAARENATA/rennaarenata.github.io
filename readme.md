@@ -42,6 +42,6 @@ Sometimes I play _ctfs_. **🏴‍☠️**
 ------------------------------------------------------------------------
 
 ## My Blog
-[Here](rBlog.md)'s my blog, I'll become posting random stuff in there so... idk, _if u're interested_, **check it out**!
+[Here](rBlog.html)'s my blog, I'll become posting random stuff in there so... idk, _if u're interested_, **check it out**!
 
 ## u,u
